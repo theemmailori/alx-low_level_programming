@@ -23,5 +23,3 @@ if (n < 0)
 }
 return (0);
 }
-Footer
-© 2022 GitHub, Inc.
